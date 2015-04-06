@@ -10,7 +10,7 @@ public class Calculadora {
 	public Calculadora (float numA, float numB){
 		this.numA = numA;
 		this.numB = numB; 
-		
+		//AE KROL TD FMZ
 	}
 	
 	public void getNumA (){
